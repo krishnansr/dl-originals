@@ -1,2 +1,2 @@
 # dl-originals
-list of popular CV DL papers for ref. (2018)
+list of well-known CV DL papers for ref. (2018)
